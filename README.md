@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [gunsel.punica.app](https://gunsel.punica.app/)
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 💬 Ask me about **React. Frontend development**
 
 - 📫 How to reach me **https://www.linkedIn.com/in/alfred-arinze**
